@@ -46,16 +46,27 @@ requirements.txt
 
 # Résultats de l'Analyse et Visualisations
 ## Aperçu du dataset
+
 <p align="center"> <img src="assets/screenshots/dataset_preview.png" width="800"> </p>
+
 ## Heatmap des corrélations
+
 <p align="center"> <img src="assets/screenshots/heatmap.png" width="600"> </p>
+
 ## Activité physique selon la durée du sommeil
+
 <p align="center"> <img src="assets/screenshots/activity_vs_sleep.png" width="700"> </p>
+
 ## Niveau d’activité physique par âge
+
 <p align="center"> <img src="assets/screenshots/activity_by_age.png" width="700"> </p>
+
 ## Distribution de la qualité du sommeil
+
 <p align="center"> <img src="assets/screenshots/sleep_quality_distribution.png" width="700"> </p>
+
 ## Conclusion & Insight
+
 <p align="center"> <img src="assets/screenshots/conclusion.png" width="800"> </p>
 
 ##  Author
